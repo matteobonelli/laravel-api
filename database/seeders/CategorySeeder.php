@@ -14,7 +14,7 @@ class CategorySeeder extends Seeder
      */
     public function run(): void
     {
-        $categories = ['Casa', 'Cucina', 'Ufficio', 'Giochi', 'Notizie'];
+        $categories = ['Vue', 'Laravel'];
         foreach ($categories as $category) {
             $newCategory = new Category();
             $newCategory->name = $category;

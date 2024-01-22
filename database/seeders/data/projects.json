@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Boolearn",
+        "description": "Sito web creato con Laravel in un gruppo di 6 persone per le vacanze natalizie: dispone di una homepage, di una pagina con corsi cliccabili che rimandano alle specifiche del singolo corso, una pagina di login ed una di registrazione.",
+        "link": "https://github.com/giovannimegliola/boolearn",
+        "creation_date": "2024-01-03",
+        "category_id": "2",
+        "technology_id": [
+            "1",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "title": "Boolflix",
+        "description": "Sito web creato con Vue e Vite : dispone di una homepage, con film presi per categorie da una API. Cliccando su un film si aprono le specifiche tra cui il voto in stelle, la descrizione, l'anno di uscita, ecc.. Dispone di searchbar e select funzionante, pagina di caricamento e tante altre features.",
+        "link": "https://github.com/matteobonelli/vite-boolflix",
+        "creation_date": "2023-11-15",
+        "category_id": "1",
+        "technology_id": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "title": "Boolzapp",
+        "description": "Sito web creato con Vue: dispone di una sezione con i contatti cliccabili che aprono la chat e di una searchbar funzionante. Inviando un messaggio ad un contatto, apparirà una risposta. Inoltre i messaggi ricevuti ed inviati sono cancellabili.",
+        "link": "https://github.com/matteobonelli/vue-boolzapp",
+        "creation_date": "2023-11-02",
+        "category_id": "1",
+        "technology_id": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "title": "DC Comics",
+        "description": "Sito web creato con Laravel: dispone di una homepage, di una pagina con comics cliccabili che rimandano alle specifiche del singolo comic, e di una searchbar ed una select funzionanti.",
+        "link": "https://github.com/matteobonelli/laravel-comics-2",
+        "creation_date": "2024-01-08",
+        "category_id": "2",
+        "technology_id": [
+            "1",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "title": "Plox Pro",
+        "description": "Sito web creato con Vue e Vite: dispone di una homepage, con vari effetti grafici, tra cui un carosello, gradiente all'hover del cursore e tanto altro.",
+        "link": "https://github.com/matteobonelli/proj-html-vuejs",
+        "creation_date": "2023-11-23",
+        "category_id": "1",
+        "technology_id": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "title": "Yu-Gi-Oh API",
+        "description": "Sito web creato con Vue e Vite: richiama una API per ottenere tutte le carte di Yu-Gi-Oh, che a loro volta sono ordinate in ordine alfabetico. Il sito dispone di una select per poter filtrare le carte per archetipo.",
+        "link": "https://github.com/matteobonelli/vite-yu-gi-oh",
+        "creation_date": "2023-11-14",
+        "category_id": "1",
+        "technology_id": [
+            "1",
+            "2",
+            "3"
+        ]
+    }
+]
